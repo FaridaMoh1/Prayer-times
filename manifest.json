@@ -1,0 +1,10 @@
+{
+  "name": "مواقيت الصلاة - فريدة",
+  "short_name": "الصلاة",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ff9a9e",
+  "theme_color": "#ff7eb3",
+  "orientation": "portrait",
+  "lang": "ar"
+}
